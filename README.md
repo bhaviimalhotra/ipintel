@@ -41,7 +41,7 @@ python --version
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ipintel.git
+git clone https://github.com/bhaviimalhotra/ipintel.git
 cd ipintel
 ```
 
